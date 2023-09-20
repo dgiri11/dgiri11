@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **React Native,VueJS, GCP, Reactive Programming**
 
-- 👨‍💻 All of my projects are available at [[vikash-kumar.com]()](https://github.com/dgiri11)
+- 👨‍💻 All of my projects are available at [[divya-giri.com]()](https://github.com/dgiri11)
 
 - 📝 I regularly write articles on [http://www.advancecomputing.co.in/](http://www.advancecomputing.co.in/)
 

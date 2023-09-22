@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Divya</h1>
 <h3 align="center">A passionate full-stack developer from USA</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=vikash0304&label=Profile%20views&color=0e75b6&style=flat" alt="vikash0304" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=dgiri11&label=Profile%20views&color=0e75b6&style=flat" alt="dgiri11" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vikash0304" alt="vikash0304" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dgiri11" alt="dgiri11" /></a> </p>
 
-- 🔭 I’m currently working on [FordPro Project](https://www.fordpro.com/en-us/)
+- 🔭 I’m currently working on [General Motors Onstar services]
 
 - 🌱 I’m currently learning **React Native,VueJS, GCP, Reactive Programming**
 
@@ -25,11 +25,11 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/vikash0304" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vikash0304" height="30" width="40" /></a>
-<a href="https://fb.com/vikash0304" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="vikash_0304" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/divya-g-3b6852a0/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dgiri11" height="30" width="40" /></a>
+<!-- <a href="https://fb.com/vikash0304" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="vikash_0304" height="30" width="40" /></a> 
 <a href="https://instagram.com/vikash_0304" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="vikash_0304" height="30" width="40" /></a>
 <a href="https://medium.com/@kr-vikash3491" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@kr-vikash3491" height="30" width="40" /></a>
-<a href="https://www.hackerearth.com/@vikash_kr3491" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@vikash_kr3491" height="30" width="40" /></a>
+<a href="https://www.hackerearth.com/@vikash_kr3491" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@vikash_kr3491" height="30" width="40" /></a> -->
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
